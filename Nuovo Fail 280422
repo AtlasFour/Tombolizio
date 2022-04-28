@@ -1,0 +1,38 @@
+28/04/2022
+
+
+PRIMO TURNO
+
+vengono posizionate 3 carte sgherro, una per pila
+i player si posizionano su una delle 3 pile
+viene estratto un dado sfida e posizionata una carta sgherro sulla colonna corrispondente
+vengono determinati i danni legati alla sfida
+i player valutano i bonus
+i player subiscono i danni per superare la prova
+i player sopravvissuti posizionano il cecio corrispondente alla prova superata
+sul tabellone viene posizionato il cecio corrispondente sulla fila designata
+i giocatori scelgono un azione da compiere (movimento, cura, macina)
+vengono risolte le azioni scelte
+se tutti i giocatori si spostano in taverna inizia la fase di riposo
+
+TURNI SUCCESSIVI
+viene estratto un dado sfida e posizionata una carta sgherro sulla colonna corrispondente
+vengono determinati i danni legati alla sfida
+i player valutano i bonus
+i player subiscono i danni per superare la prova
+i player sopravvissuti posizionano il cecio corrispondente alla prova superata
+sul tabellone viene posizionato il cecio corrispondente sulla fila designata
+i giocatori scelgono un azione da compiere (movimento, cura, macina)
+vengono risolte le azioni scelte
+se tutti i giocatori si spostano in taverna inizia la fase di riposo
+
+
+
+MODIFICATORI SFIDE MASTER
++1 a tutte le sfide
++1 alle altre pile
+No cura
+No tav
+No macina
+No movimento
+
