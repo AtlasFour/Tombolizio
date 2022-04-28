@@ -1,24 +1,39 @@
 PRIMO TURNO
 
-vengono posizionate 3 carte sgherro, una per pila
-i player si posizionano su una delle 3 pile
-viene estratto un dado sfida e posizionata una carta sgherro sulla colonna corrispondente
-vengono determinati i danni legati alla sfida
-i player valutano i bonus
-i player subiscono i danni per superare la prova
-i player sopravvissuti posizionano il cecio corrispondente alla prova superata
-sul tabellone viene posizionato il cecio corrispondente sulla fila designata
-i giocatori scelgono un azione da compiere (movimento, cura, macina)
-vengono risolte le azioni scelte
-se tutti i giocatori si spostano in taverna inizia la fase di riposo
+	-	Vegono posizionate 3 carte sgherro, una per pila
+	- I player si posizionano su una delle 3 pile
+	- Viene estratto un dado sfida e posizionata una carta sgherro sulla colonna corrispondente
+	- Viene posizionato un cieco corrispondente alla sfida estratta sul tabellone centrale
+	- Vengono determinati i danni legati alla sfida
+	- I player valutano i bonus
+	- I player subiscono i danni per superare la prova
+	- I player sopravvissuti posizionano il cecio corrispondente alla prova superata
+	- sul tabellone viene posizionato il cecio corrispondente sulla fila designata
+	- I giocatori scelgono un azione da compiere (movimento, cura, macina)
+	- vengono risolte le azioni scelte
+	- se tutti i giocatori decidono di spostarsi in taverna, inizia la fase di riposo
 
 TURNI SUCCESSIVI
-viene estratto un dado sfida e posizionata una carta sgherro sulla colonna corrispondente
-vengono determinati i danni legati alla sfida
-i player valutano i bonus
-i player subiscono i danni per superare la prova
-i player sopravvissuti posizionano il cecio corrispondente alla prova superata
-sul tabellone viene posizionato il cecio corrispondente sulla fila designata
-i giocatori scelgono un azione da compiere (movimento, cura, macina)
-vengono risolte le azioni scelte
-se tutti i giocatori si spostano in taverna inizia la fase di riposo
+
+	- Viene estratto un dado sfida e posizionata una carta sgherro sulla colonna corrispondente	
+	- Viene posizionato un cieco corrispondente alla sfida estratta sul tabellone centrale
+	- Vengono determinati i danni legati alla sfida
+	- I player valutano i bonus
+	- I player subiscono i danni per superare la prova
+	- I player sopravvissuti posizionano il cecio corrispondente alla prova superata
+	- sul tabellone viene posizionato il cecio corrispondente sulla fila designata
+	- I giocatori scelgono un azione da compiere (movimento, cura, macina)
+	- vengono risolte le azioni scelte
+	- se tutti i giocatori decidono di spostarsi in taverna, inizia la fase di riposo
+
+FASE RIPOSO (TAVERNA/TURNO FUORI)
+
+Quando tutti i giocatori decidono di uscire, inizia la fase riposo
+	- I giocatori recuperano tutta la vita
+	- La taverna si refresha
+	-	Ogni giocatore puó prendere una carta oggetto gratuitamente
+	-	I giocatori possono decidere di spendere il numero necessario di carte "Boss" per sbloccare talenti
+	- Viene estratto un dado sfida, MA viene posizionata una carta sgherro per colonna	
+	- Viene posizionato un cecio corrispondente alla sfida estratta sul tabellone centrale
+	
+I giocatori possono decidere di passare quanti turni in taverna vogliono, a loro rischio e pericolo.
